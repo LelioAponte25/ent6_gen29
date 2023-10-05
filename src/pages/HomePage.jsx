@@ -21,15 +21,15 @@ const HomePage = () => {
 
     return (
         <div className='container__principal'>
-            <header className='color__id'>
-                <div className='img__pokeid'>
+            <header className='color__idi'>
+                <div className='imges__pokeid'>
                     <img src="./images/logo.png" alt="" />
                 </div>
-                <div className='bola__pokeid'>
+                <div className='bolas__pokeid'>
                     <img src="./images/bola-pokemon.png" alt="" />
                 </div>
             </header>
-            <div className='color__class'></div>
+            <div className='color__classs'></div>
             <div className='home__poke'>
                 <section className='color__home'>
                     <div className='login'>
